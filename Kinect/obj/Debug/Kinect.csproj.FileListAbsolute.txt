@@ -1,0 +1,11 @@
+D:\Projects\Kinect\Kinect\bin\Debug\Kinect.exe.config
+D:\Projects\Kinect\Kinect\bin\Debug\Kinect.exe
+D:\Projects\Kinect\Kinect\bin\Debug\Kinect.pdb
+D:\Projects\Kinect\Kinect\bin\Debug\Microsoft.Kinect.dll
+D:\Projects\Kinect\Kinect\bin\Debug\Microsoft.Kinect.xml
+D:\Projects\Kinect\Kinect\obj\Debug\Kinect.csprojResolveAssemblyReference.cache
+D:\Projects\Kinect\Kinect\obj\Debug\Kinect.Properties.Resources.resources
+D:\Projects\Kinect\Kinect\obj\Debug\Kinect.csproj.GenerateResource.Cache
+D:\Projects\Kinect\Kinect\obj\Debug\Kinect.exe
+D:\Projects\Kinect\Kinect\obj\Debug\Kinect.pdb
+D:\Projects\Kinect\Kinect\obj\Debug\Kinect.Form1.resources
